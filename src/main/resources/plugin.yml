@@ -1,0 +1,6 @@
+name: mcpaper-duidie
+version: '${version}'
+main: com.adongcraft.duidie.DuidiePlugin
+api-version: '26.3'
+description: 将可堆叠物品（含药水）的堆叠上限提升到 99
+author: adongshaln
